@@ -18,7 +18,18 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
- 
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/santosh__mn?igsh=djJxeDc4MmRoeHR5">
+  <img src="https://github.com/Nayak251/Nayak251/blob/main/assets/insta.jpg" width="30px" alt="Instagram"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://dev.to/nayak106">
+  <img src="https://github.com/Nayak251/Nayak251/blob/main/assets/dev.png" width="30px" alt="Dev.to"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="mailto:nayaksantu854@gmail.com">
+  <img src="https://github.com/Nayak251/Nayak251/blob/main/assets/mail.jpg" width="30px" alt="Email"></a>
+  &nbsp; 
+  &nbsp;
 </p> 
 </samp>
 </details>
@@ -26,17 +37,4 @@
 <p>Credits: <a href="https://github.com/Nayak251">Nayak</a></p>
 <p>Last Edited on: 04/09/2025</p> 
 
-<!--
-**Nayak251/Nayak251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
